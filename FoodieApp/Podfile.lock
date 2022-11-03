@@ -1,0 +1,16 @@
+PODS:
+  - Glassfy (1.3.4)
+
+DEPENDENCIES:
+  - Glassfy
+
+SPEC REPOS:
+  trunk:
+    - Glassfy
+
+SPEC CHECKSUMS:
+  Glassfy: b8da70f5298d7067bba595256b2ea062474ad0ea
+
+PODFILE CHECKSUM: 31ed6bdf6efe6fce1d6ee4e8749a10dee7f811e6
+
+COCOAPODS: 1.11.3
